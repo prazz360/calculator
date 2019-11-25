@@ -1,8 +1,8 @@
 package id.co.ant.calculator;
 
 import org.junit.*;
-import static org.junit.Assert.assertEquals;
-
+//import static org.junit.Assert.assertEquals;
+import static org.junit.jupiter.api.Assertions.*;
 public class CalculatorTest {
 
 	private Calculator calculator = new Calculator();
